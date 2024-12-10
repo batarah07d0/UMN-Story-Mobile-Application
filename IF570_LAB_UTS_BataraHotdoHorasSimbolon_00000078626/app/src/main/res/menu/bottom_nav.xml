@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_add_story"
+        android:icon="@drawable/outline_add_box_24"
+        android:title="@string/add_a_story" />
+    <item
+        android:id="@+id/btn_home"
+        android:icon="@drawable/outline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/btn_account_detail"
+        android:icon="@drawable/outline_account_circle_24"
+        android:title="@string/account_detail" />
+</menu>

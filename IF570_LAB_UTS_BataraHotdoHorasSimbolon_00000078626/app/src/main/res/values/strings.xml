@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">UMN STORY APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="add_icon">add_icon</string>
+    <string name="home_icon">home_icon</string>
+    <string name="user_icon">user_icon</string>
+    <string name="account_detail">Account Detail</string>
+    <string name="home">Home</string>
+    <string name="add_a_story">Add a Story</string>
+    <string name="caption">Caption</string>
+    <string name="_0">0</string>
+    <string name="add_photo_button">Add Photo Button</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="post_story">Post Story</string>
+    <string name="your_image">Your Image</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="batara_hotdo_horas_simbolon">Batara Hotdo Horas Simbolon</string>
+    <string name="pin_message">Pin Message</string>
+    <string name="like_message">Like Message</string>
+    <string name="image_description">Image description</string>
+    <string name="story_image">Story Image</string>
+</resources>

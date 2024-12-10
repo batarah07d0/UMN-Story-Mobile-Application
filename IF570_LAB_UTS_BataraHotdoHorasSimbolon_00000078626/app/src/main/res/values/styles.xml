@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gaya kustom untuk bottom nav -->
+    <style name="BottomNavTextStyle">
+        <item name="android:textSize">2sp</item>
+    </style>
+
+    <!-- Gaya kustom untuk dialog -->
+    <style name="CustomDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">@android:color/transparent
+        </item> <!-- Latar belakang putih -->
+        <item name="android:windowBackground">@android:color/transparent
+        </item> <!-- Latar belakang transparan -->
+        <item name="android:elevation">4dp</item> <!-- Bayangan -->
+    </style>
+</resources>
